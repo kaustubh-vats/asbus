@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home" android:icon="@drawable/ic_baseline_home_24" android:title="@string/home"/>
+        <item android:id="@+id/nav_services" android:icon="@drawable/ic_baseline_emoji_transportation_24" android:title="@string/services"/>
+        <item android:id="@+id/nav_aboutus" android:icon="@drawable/ic_baseline_people_24" android:title="@string/about_us"/>
+    </group>
+    <item android:title="@string/services">
+        <menu>
+            <item android:title="@string/flight_booking" android:onClick="flight" android:id="@+id/flight_booking" android:icon="@drawable/ic_baseline_local_airport_24"/>
+            <item android:title="@string/train_booking" android:onClick="train" android:id="@+id/train_booking" android:icon="@drawable/ic_baseline_train_24"/>
+            <item android:title="@string/hotels" android:onClick="hotels" android:id="@+id/hotel_booking" android:icon="@drawable/ic_baseline_home_24"/>
+        </menu>
+    </item>
+</menu>

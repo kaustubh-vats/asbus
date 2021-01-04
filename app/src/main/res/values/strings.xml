@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ASBus</string>
+    <string name="log_in">Log in</string>
+    <string name="new_user">New User</string>
+    <string name="register_here">Register here</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="already_a_user">Already a User</string>
+    <string name="login_here">Login here</string>
+    <string name="forgot">Forgot</string>
+    <string name="register_now">Register Now</string>
+    <string name="user_created_please_verify_your_email_and_login_again">User Created Please verify your email and login again</string>
+    <string name="about_us">About Us</string>
+    <string name="services">Services</string>
+    <string name="log_out">Log out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_home_drawer">HomeDrawerActivity</string>
+    <string name="nav_header_title">AS Bus</string>
+    <string name="nav_header_subtitle">asbus@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="about_as_bus">About AS BUS</string>
+    <string name="details_one">We are a leading online travel company in India providing a \'best in class\' customer experience with the goal to be \'International\'s Travel Planner\'. Through our website, www.asbuscompany.com, our mobile applications and our other associated platforms, leisure and business travelers can explore, research, compare prices and book a wide range of services catering to their travel needs. Since our inception in 2006, more than 7 million customers have used one or more of our comprehensive travel-related services, which include domestic and international air ticketing, hotel bookings, homestays, holiday packages, bus ticketing,activities and ancillary services. With over 83,000 hotels contracted across India, we are India\'s largest platform for domestic hotels. A strong and trusted" travel brand of India, our strengths include a large and loyal customer base, a multi-channel platform for leisure and business travelers, a robust mobile eco-system for a spectrum of travelers and suppliers, a strong technology platform designed to deliver a high level of scalability and innovation and a seasoned senior management team comprising of industry executives with deep roots in the travel industry in India and abroad.</string>
+    <string name="as_bus_booking">"AS BUS BOOKING", which means "Journey" in Hindi.</string>
+    <string name="details_two">we acquired as bus booking B2B and B2C entities from Travelocity, which remain well-established hotel aggregators in India. Through this acquisition, we expanded our hotel business by establishing more direct hotel relationships in India and improved our inventory of affordable travel options. Recently, we also acquired Air Travel Bureau Ltd. ("ATB"), India\'s largest independent corporate travel services provider to further strengthen our position in the growing corporate travel market in India. Now, with this combined entity, AS Bus Company is the largest corporate travel services platform in India by Gross Bookings. We have also leveraged our leading position in the Indian travel ecosystem to make several "acqui-hires", including the teams from mGaadi and dudegenie, in order to grow our business. We are dedicated to ensuring a superior user experience on our platform and a critical component of that is customer service. We provide customer support at all stages of our customer\'s journey – before, during and after. Our customer "touch-points" include our website, mobile platforms, retail stores, call centres, a network of over 17,000 agents across India addressing the needs of a large fragmented market of travel agents and a portfolio of B2E clients across India employing over 4 million people.</string>
+    <string name="buy_now">Book now</string>
+    <string name="search">Search</string>
+    <string name="welcome_text">Welcome Back </string>
+    <string name="flight_booking">Flight Booking</string>
+    <string name="train_booking">Train Booking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="our_services">Our Services</string>
+    <string name="view_more">View More</string>
+    <string name="hotels">Hotels</string>
+</resources>

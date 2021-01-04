@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_services"
+        android:name="com.asbus101.asbus.ui.services.ServicesFragment"
+        android:label="@string/services"
+        tools:layout="@layout/fragment_services" />
+
+    <fragment
+        android:id="@+id/nav_aboutus"
+        android:name="com.asbus101.asbus.ui.aboutus.AboutUsFragment"
+        android:label="@string/about_us"
+        tools:layout="@layout/fragment_aboutus" />
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.asbus101.asbus.ui.home.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_home" >
+    </fragment>
+
+</navigation>

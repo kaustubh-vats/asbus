@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393714008849",
+    "project_id": "asbus-2120e",
+    "storage_bucket": "asbus-2120e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393714008849:android:cb415c20665834eeb4c2b0",
+        "android_client_info": {
+          "package_name": "com.asbus101.asbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393714008849-9uv88vc3phiola0val7kbn7onjf90472.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNgXZ_S_xBQATbWhv6vdaPETwcml5Eqdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393714008849-9uv88vc3phiola0val7kbn7onjf90472.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
